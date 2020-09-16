@@ -1,0 +1,16 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 15px 10px;
+}
+
+li{
+    display: inline;
+    opacity: 1;
+}
+
+#logo{
+    font-weight: bolder;
+    color: #20B2AA;
+    font-size: large;
+}
