@@ -13,3 +13,6 @@ class Warrior extends Player{
         "The Warrior "+ Player.prototype.Attack.call()
     }
 }
+
+const _Warrior = Warrior
+export { _Warrior as Warrior }
